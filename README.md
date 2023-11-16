@@ -9,7 +9,12 @@ A repository with a collection of useful licences.
 - You rename it to LICENCE
 - You change the year and the copyright holder name
 - You add headers to source files
+    ```
+    // Copyright © 2023 Luka Ivanović
+    // This code is licensed under MIT licence (see LICENCE for details)
+    ```
 - You add licence notice in project's README(.md) file
+    - `This code is licensed under MIT licence (see LICENCE for details).`
 
 ## How to choose
 
